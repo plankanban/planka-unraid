@@ -1,16 +1,16 @@
 <?xml version="1.0"?>
 <Container version="2">
   <Name>PLANKA</Name>
-  <Icon>https://raw.githubusercontent.com/planka/unraid/master/img/planka.png</Icon>
+  <Icon>https://raw.githubusercontent.com/plankanban/planka-unraid/main/img/planka.png</Icon>
   <github>https://github.com/plankanban/planka</github>
-  <Support>https://github.com/plankanban/planka/unraid/issues</Support>
+  <Support>https://github.com/plankanban/planka-unraid/issues</Support>
   <Project>https://planka.app/</Project>
   <Category>Productivity: Tools:</Category>
   <Date>2024-07-13</Date>
   <Beta>False</Beta>
   <Repository>ghcr.io/plankanban/planka</Repository>
   <Registry>https://github.com/plankanban/planka/pkgs/container/planka</Registry>
-  <TemplateURL>https://raw.githubusercontent.com/planka/unraid/master/planka.xml</TemplateURL>
+  <TemplateURL>https://raw.githubusercontent.com/plankanban/planka-unraid/main/planka.xml</TemplateURL>
   <WebUI>http://[IP]:[PORT:1337]</WebUI>
   <Network Default="bridge">bridge</Network>
   <Shell>sh</Shell>
