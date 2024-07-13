@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <Container version="2">
-  <Name>PLANKA</Name>
+  <Name>PLANKA (Official)</Name>
   <Icon>https://raw.githubusercontent.com/plankanban/planka-unraid/main/img/planka.png</Icon>
   <github>https://github.com/plankanban/planka</github>
   <Support>https://github.com/plankanban/planka-unraid/issues</Support>
