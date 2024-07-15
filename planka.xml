@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <Container version="2">
-  <Name>PLANKA(Official)</Name>
+  <Name>PLANKA_Official</Name>
   <Repository>ghcr.io/plankanban/planka</Repository>
   <Registry>https://github.com/plankanban/planka/pkgs/container/planka</Registry>
   <Network>bridge</Network>
